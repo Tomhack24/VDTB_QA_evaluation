@@ -1,0 +1,11 @@
+Q: What would have happened to the dogs if their owner hadn't intervened?
+A: The bear would have likely mauled or killed the dogs.
+[[14.934, 22.309], [22.494, 27.533]]
+
+Q: Why did the owner push the mother bear after its cubs had already fled?
+A: To stop the bear from attacking and killing her dogs.
+[[14.934, 22.309], [22.494, 27.533]]
+
+Q: Why did the owner first push the bear and then immediately retreat?
+A: To save her dogs and then escape to safety.
+[[22.494, 27.533], [27.595, 30.729]]

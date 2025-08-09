@@ -1,0 +1,11 @@
+Q: After arriving at the plaza, what prompted President Mattarella's eventual departure?
+A: The conclusion of the inauguration ceremony for Carlo Azeglio Ciampi.
+[[64.43, 72.284], [72.324, 80.644]]
+
+Q: What event involving Claudio Ciampi occurred after the ceremonial music and before President Mattarella left?
+A: A plaza was inaugurated in the name of Carlo Azeglio Ciampi.
+[[64.43, 72.284]]
+
+Q: What two main events took place between President Mattarella's arrival at the plaza and his departure?
+A: A musical performance and an inauguration ceremony.
+[[19.668, 34.562], [64.43, 72.284]]

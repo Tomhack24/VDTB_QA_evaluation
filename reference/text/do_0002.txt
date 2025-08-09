@@ -1,0 +1,11 @@
+Q: What would have happened if voters did not get their hands disinfected?
+A: They could not have entered to cast their ballots.
+[[10.184, 23.245], [39.165, 53.253], [77.817, 87.405]]
+
+Q: How did passing the health screening at the gate allow people to vote?
+A: It granted them entry into the polling station premises.
+[[10.184, 23.245], [23.285, 29.096], [39.165, 53.253]]
+
+Q: Why did the first woman talk to the camera after casting her ballot?
+A: To share her opinion after fulfilling her civic duty.
+[[39.165, 53.253], [53.293, 72.638]]

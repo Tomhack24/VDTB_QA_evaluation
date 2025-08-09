@@ -1,0 +1,11 @@
+Q: If the Queen had only arrived and then left, what primary purpose of her attendance would have been missed?
+A: Opening Parliament and setting out government priorities.
+[[17.529, 20.637], [20.677, 25.625], [28.907, 34.294]]
+
+Q: After arriving for the State Opening of Parliament, what actions by the Queen signified that her duties were complete?
+A: Giving a blessing and departing the chamber.
+[[34.334, 52.929], [56.148, 67.577]]
+
+Q: After her arrival and before her departure, what was the Queen's main action during the State Opening of Parliament?
+A: Opening Parliament and setting out the government's priorities.
+[[17.529, 20.637], [20.677, 25.625], [28.907, 34.294]]

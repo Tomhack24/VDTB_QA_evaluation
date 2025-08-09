@@ -1,0 +1,11 @@
+Q: After arriving at the plaza, what prompted President Mattarella's eventual departure?
+A: The conclusion of Claudio Ciampi's speech.
+[[0.213, 19.628], [34.602, 61.728], [72.324, 80.644]]
+
+Q: What event involving Claudio Ciampi occurred after the ceremonial music and before President Mattarella left?
+A: She delivered a speech at the ceremony.
+[[19.668, 34.562], [34.602, 61.728], [72.324, 80.644]]
+
+Q: What two main events took place between President Mattarella's arrival at the plaza and his departure?
+A: Ceremonial music was played and a speech was delivered.
+[[0.213, 19.628], [19.668, 34.562], [34.602, 61.728], [72.324, 80.644]]

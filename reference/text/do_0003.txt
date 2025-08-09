@@ -1,0 +1,11 @@
+Q: Why were the fighters interviewed separately after posing together?
+A: To capture individual reactions after their joint confrontation.
+[[80.108, 88.898], [97.245, 104.225], [160.846, 168.607]]
+
+Q: Why did the tense face-off lead to Mayweather later dismissing Paul's boxing style?
+A: To contrast his elite experience with Paul's background.
+[[8.06, 74.053], [168.852, 187.901]]
+
+Q: What element would be lost if the event skipped from the presentation to the interviews?
+A: The confrontation that prompted the later commentary.
+[[0.0, 6.056], [8.06, 74.053], [97.245, 104.225]]

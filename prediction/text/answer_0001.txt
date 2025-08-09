@@ -1,0 +1,11 @@
+Q: Why did protesters play drums after receiving a police warning?
+A: They drummed in response to a call to resist.
+[[14.516, 18.381], [89.758, 103.396], [103.437, 112.57]]
+
+Q: How did the initial protest march lead to the final drumming?
+A: Marchers listened to a speech calling for resistance, then drummed.
+[[0.0, 14.476], [89.758, 103.396], [103.437, 112.57]]
+
+Q: What might have happened if the spokesperson had not spoken?
+A: The drumming likely would not have occurred.
+[[89.758, 103.396], [103.437, 112.57]]

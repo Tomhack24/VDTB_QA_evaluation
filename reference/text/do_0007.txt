@@ -1,0 +1,11 @@
+Q: After arriving at the airport, what was required before the diplomats could depart?
+A: They had to retrieve luggage and clear departure formalities.
+[[26.547, 31.841], [61.439, 83.255], [98.283, 109.579]]
+
+Q: Why did the diplomats and their families undergo departure formalities?
+A: To board the Russian government jet waiting for them.
+[[61.439, 83.255], [98.283, 109.579], [137.407, 154.076]]
+
+Q: How did the Russian diplomats get from their embassy to their waiting government jet?
+A: They took a bus and went through airport formalities.
+[[5.596, 14.574], [98.283, 109.579], [137.407, 154.076]]

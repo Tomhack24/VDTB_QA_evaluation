@@ -1,0 +1,11 @@
+Q: How did the room's setup foreshadow the topics of discussion?
+A: The US and Israeli flags signaled a diplomatic meeting.
+[[1.724, 8.388], [10.711, 55.37], [55.38, 95.075]]
+
+Q: Why did Gantz thank the US after entering the room?
+A: He thanked the US for its ongoing support for Israel.
+[[55.38, 95.075]]
+
+Q: Why did the men exit after outlining their discussion topics?
+A: They left the press to begin their private discussions.
+[[10.711, 55.37], [55.38, 95.075], [96.217, 99.103]]

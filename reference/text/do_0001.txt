@@ -1,0 +1,11 @@
+Q: Why did protesters play drums after receiving a police warning?
+A: A speaker motivated them to resist the police warning.
+[[14.516, 18.381], [28.425, 85.515], [103.437, 112.57]]
+
+Q: How did the initial protest march lead to the final drumming?
+A: A spokesperson's speech incited protesters to continue demonstrating.
+[[0.0, 14.476], [28.425, 85.515], [103.437, 112.57]]
+
+Q: What might have happened if the spokesperson had not spoken?
+A: The protest may have ended after the police warning.
+[[14.516, 18.381], [28.425, 85.515]]

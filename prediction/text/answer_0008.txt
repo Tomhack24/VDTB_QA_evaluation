@@ -1,0 +1,17 @@
+Q: Why does Johnson roll his sleeve down after the doctor administers the injection? 
+
+
+A: Johnson rolls his sleeve down because the injection process is complete.
+[[8.377, 22.733], [50.755, 65.578]]
+
+Q: How did the administration of the shot lead to Johnson eventually leaving the room? 
+
+
+A: The shot concluded his appointment, so he left the room.
+[[8.377, 22.733], [87.847, 88.634]]
+
+Q: How did Johnson rolling up his sleeve ultimately lead to the doctor placing a sticker on him? 
+
+
+A: Rolling up his sleeve enabled him to get vaccinated.
+[[0.0, 8.151], [8.377, 22.733], [87.847, 88.634]]

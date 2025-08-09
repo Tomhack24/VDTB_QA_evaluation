@@ -1,0 +1,11 @@
+Q: If the Queen had only arrived and then left, what primary purpose of her attendance would have been missed?
+A: Delivering the speech to open Parliament.
+[[0.0, 17.433], [28.907, 34.294], [56.148, 67.577]]
+
+Q: After arriving for the State Opening of Parliament, what actions by the Queen signified that her duties were complete?
+A: She bowed and then walked out of the House.
+[[0.0, 17.433], [52.969, 56.108], [56.148, 67.577]]
+
+Q: After her arrival and before her departure, what was the Queen's main action during the State Opening of Parliament?
+A: She delivered her speech.
+[[0.0, 17.433], [28.907, 34.294], [56.148, 67.577]]

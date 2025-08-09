@@ -1,0 +1,11 @@
+Q: Why was a police car present before the team's bus departed from the hotel?
+A: To provide a security escort for the team.
+[[5.86, 25.083], [25.123, 30.122], [47.196, 52.119], [56.494, 67.434]]
+
+Q: What would have happened if the bus had not been parked outside the hotel?
+A: The team would have had to wait for it.
+[[0.0, 5.82], [5.86, 25.083], [30.162, 36.725], [42.273, 47.078]]
+
+Q: What action by the team prompted a supporter to display an Algerian flag?
+A: The team, including Riyad Mahrez, left the hotel.
+[[5.86, 25.083], [67.512, 69.7], [69.74, 87.515]]
